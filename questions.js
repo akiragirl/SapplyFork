@@ -29,14 +29,14 @@ questions =  [
 	{"id": 27, "question": "The government should, at most, provide emergency services and law enforcement.", "effects": {"auth": -1}},
 	{"id": 28, "question": "Forget \"police reform\"; it needs to be abolished entirely.", "effects": {"auth": -0.5}},
 	{"id": 29, "question": "The state should not be involved in the education of our children whatsoever.", "effects": {"auth": -1}},
-	{"id": 30, "question": "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.", "effects": {"dem": 1}},
-	{"id": 31, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"dem": 1}},
-	{"id": 32, "question": "A person should be able to worship whomever or whatever they want.", "effects": {"dem": 1}},
-	{"id": 33, "question": "Nudism is perfectly natural.", "effects": {"dem": 1}},
-	{"id": 34, "question": "Animals deserve certain universal rights.", "effects": {"dem": 1}},
+	//{"id": 30, "question": "Two consenting individuals should be able to do whatever they want with each other, even if it makes me uncomfortable.", "effects": {"dem": 1}},
+	//{"id": 31, "question": "An individual's body is their own property, and they should be able to do anything they desire to it.", "effects": {"dem": 1}},
+	{"id": 32, "question": "A person should be able to preach whatever ideologies they like, even if those ideologies promote things such as unjust inequality or homophobia.", "effects": {"auth": -1}},
+	//{"id": 33, "question": "Nudism is perfectly natural.", "effects": {"dem": 1}},
+	//{"id": 34, "question": "Animals deserve certain universal rights.", "effects": {"dem": 1}},
 	//{"id": 35, "question": "Gender is a social construct, not a natural state of affairs.", "effects": {"dem": 1}}, // remove this
-	{"id": 36, "question": "Laws based on cultural values, rather than ethical ones, aren't justice.", "effects": {"dem": 1}},
-	{"id": 37, "question": "Autonomy of body extends even to minors, the mentally ill, and serious criminals.", "effects": {"dem": 1}},
+	//{"id": 36, "question": "Laws based on cultural values, rather than ethical ones, aren't justice.", "effects": {"dem": 1}},
+	//{"id": 37, "question": "Autonomy of body extends even to minors, the mentally ill, and serious criminals.", "effects": {"dem": 1}},
 	//{"id": 38, "question": "Homosexuality is against my values.", "effects": {"dem": -1}}, // gotcha question; replace this
 	//{"id": 39, "question": "Transgender individuals should not be able to adopt children.", "effects": {"dem": -1}}, // gotcha question; replace this
 	//{"id": 40, "question": "Drugs are harmful and should be banned.", "effects": {"dem": -1}}, // replace this
