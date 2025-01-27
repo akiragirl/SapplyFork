@@ -12,7 +12,7 @@ questions =  [
 	{"id": 10, "question": "The current welfare system should be expanded to further combat inequality.", "effects": {"right": -1}},
 	{"id": 11, "question": "Land should not be a commodity to be bought and sold.", "effects": {"right": -1}},
 	{"id": 12, "question": "Banking should mainly be state-managed, not privately managed, with the possible exception of some online banking services and cryptocurrency.", "effects": {"auth": 1.2}},
-	{"id": 13, "question": "Class is the primary division of society.", "effects": {"right": -1}},
+	{"id": 13, "question": "Class is one of the major divisions of society.", "effects": {"right": -1}},
 	{"id": 14, "question": "Economic inequality is too high in the world.", "effects": {"right": -1}},
 	{"id": 15, "question": "Sometimes, it is acceptable for the government to spy on some of its citizens to protect other citizens.", "effects": {"auth": 1}},
 	{"id": 16, "question": "Authority figures, if morally correct, are a good thing for society.", "effects": {"auth": 1}},
